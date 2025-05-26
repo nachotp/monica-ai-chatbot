@@ -84,7 +84,6 @@ def bot_response_function(user_message, chat_history):
       {user_message}
     
     following these instructions:
-
     ## Instructions:
     * Who did they interact with?
     * What did they do?
